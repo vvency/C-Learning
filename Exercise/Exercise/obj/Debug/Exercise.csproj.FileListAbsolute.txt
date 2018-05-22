@@ -1,0 +1,6 @@
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\Exercise\bin\Debug\Exercise.exe
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\Exercise\obj\Debug\Exercise.exe
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\Exercise\obj\Debug\Exercise.pdb

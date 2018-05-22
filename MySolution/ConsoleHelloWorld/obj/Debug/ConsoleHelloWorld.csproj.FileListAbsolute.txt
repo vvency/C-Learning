@@ -1,0 +1,6 @@
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\MySolution\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.exe.config
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\MySolution\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.exe
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\MySolution\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.pdb
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\MySolution\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\MySolution\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.exe
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\MySolution\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.pdb
