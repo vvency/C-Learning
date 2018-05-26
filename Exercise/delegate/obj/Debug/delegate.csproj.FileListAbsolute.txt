@@ -1,0 +1,5 @@
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\delegate\bin\Debug\@delegate.exe.config
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\delegate\bin\Debug\@delegate.exe
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\delegate\bin\Debug\@delegate.pdb
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\delegate\obj\Debug\@delegate.exe
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\delegate\obj\Debug\@delegate.pdb

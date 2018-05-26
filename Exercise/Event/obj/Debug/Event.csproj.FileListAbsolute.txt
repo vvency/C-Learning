@@ -1,0 +1,6 @@
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\Event\bin\Debug\Event.exe.config
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\Event\bin\Debug\Event.exe
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\Event\bin\Debug\Event.pdb
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\Event\obj\Debug\Event.exe
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\Event\obj\Debug\Event.pdb
+C:\Users\vency\Documents\Visual Studio 2015\Projects\C# Learning\Exercise\Event\obj\Debug\Event.csprojResolveAssemblyReference.cache

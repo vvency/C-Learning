@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Threading;
 using System.Threading.Tasks; //显示异步调用 
 
-namespace @delegate
+namespace Delegate
 {
     public delegate double Calc(double x, double y);  // 声明委托
 
@@ -200,7 +200,7 @@ namespace @delegate
             for (int i = 0; i < 5; i++)
             {
                 Console.ForegroundColor = this.PenColor;
-                Console.WriteLine("Student {0}doing homework {1}hours."this.ID, PenColor);
+                Console.WriteLine("Student {0}doing homework {1}hours.",this.ID, PenColor);
                 Thread.Sleep(1000);
             }
         }
